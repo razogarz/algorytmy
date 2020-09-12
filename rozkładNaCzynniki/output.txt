@@ -1,0 +1,100 @@
+Czynniki pierwsze liczby 20: 2 2 5
+Czynniki pierwsze liczby 50: 2 5 5 
+Czynniki pierwsze liczby 81: 3 3 3 3 
+Czynniki pierwsze liczby 90: 2 3 3 5
+Czynniki pierwsze liczby 30: 2 3 5
+Czynniki pierwsze liczby 58: 2 29
+Czynniki pierwsze liczby 82: 2 41
+Czynniki pierwsze liczby 3: 3
+Czynniki pierwsze liczby 75: 3 5 5 
+Czynniki pierwsze liczby 98: 2 7 7 
+Czynniki pierwsze liczby 13: 13
+Czynniki pierwsze liczby 71: 71
+Czynniki pierwsze liczby 29: 29
+Czynniki pierwsze liczby 31: 31
+Czynniki pierwsze liczby 2: 2
+Czynniki pierwsze liczby 64: 2 2 2 2 2 2 
+Czynniki pierwsze liczby 77: 7 11
+Czynniki pierwsze liczby 25: 5 5 
+Czynniki pierwsze liczby 61: 61
+Czynniki pierwsze liczby 38: 2 19
+Czynniki pierwsze liczby 89: 89
+Czynniki pierwsze liczby 71: 71
+Czynniki pierwsze liczby 70: 2 5 7
+Czynniki pierwsze liczby 43: 43
+Czynniki pierwsze liczby 10: 2 5
+Czynniki pierwsze liczby 38: 2 19
+Czynniki pierwsze liczby 29: 29
+Czynniki pierwsze liczby 62: 2 31
+Czynniki pierwsze liczby 44: 2 2 11
+Czynniki pierwsze liczby 10: 2 5
+Czynniki pierwsze liczby 7: 7
+Czynniki pierwsze liczby 92: 2 2 23
+Czynniki pierwsze liczby 92: 2 2 23
+Czynniki pierwsze liczby 62: 2 31
+Czynniki pierwsze liczby 8: 2 2 2 
+Czynniki pierwsze liczby 60: 2 2 3 5
+Czynniki pierwsze liczby 5: 5
+Czynniki pierwsze liczby 4: 2 2 
+Czynniki pierwsze liczby 87: 3 29
+Czynniki pierwsze liczby 82: 2 41
+Czynniki pierwsze liczby 36: 2 2 3 3 
+Czynniki pierwsze liczby 72: 2 2 2 3 3 
+Czynniki pierwsze liczby 35: 5 7
+Czynniki pierwsze liczby 14: 2 7
+Czynniki pierwsze liczby 94: 2 47
+Czynniki pierwsze liczby 54: 2 3 3 3 
+Czynniki pierwsze liczby 19: 19
+Czynniki pierwsze liczby 47: 47
+Czynniki pierwsze liczby 48: 2 2 2 2 3
+Czynniki pierwsze liczby 24: 2 2 2 3
+Czynniki pierwsze liczby 58: 2 29
+Czynniki pierwsze liczby 68: 2 2 17
+Czynniki pierwsze liczby 66: 2 3 11
+Czynniki pierwsze liczby 33: 3 11
+Czynniki pierwsze liczby 85: 5 17
+Czynniki pierwsze liczby 42: 2 3 7
+Czynniki pierwsze liczby 24: 2 2 2 3
+Czynniki pierwsze liczby 19: 19
+Czynniki pierwsze liczby 54: 2 3 3 3 
+Czynniki pierwsze liczby 74: 2 37
+Czynniki pierwsze liczby 51: 3 17
+Czynniki pierwsze liczby 7: 7
+Czynniki pierwsze liczby 66: 2 3 11
+Czynniki pierwsze liczby 84: 2 2 3 7
+Czynniki pierwsze liczby 70: 2 5 7
+Czynniki pierwsze liczby 66: 2 3 11
+Czynniki pierwsze liczby 85: 5 17
+Czynniki pierwsze liczby 47: 47
+Czynniki pierwsze liczby 2: 2
+Czynniki pierwsze liczby 48: 2 2 2 2 3
+Czynniki pierwsze liczby 85: 5 17
+Czynniki pierwsze liczby 64: 2 2 2 2 2 2 
+Czynniki pierwsze liczby 97: 97
+Czynniki pierwsze liczby 79: 79
+Czynniki pierwsze liczby 63: 3 3 7
+Czynniki pierwsze liczby 80: 2 2 2 2 5
+Czynniki pierwsze liczby 43: 43
+Czynniki pierwsze liczby 48: 2 2 2 2 3
+Czynniki pierwsze liczby 35: 5 7
+Czynniki pierwsze liczby 16: 2 2 2 2 
+Czynniki pierwsze liczby 51: 3 17
+Czynniki pierwsze liczby 54: 2 3 3 3 
+Czynniki pierwsze liczby 28: 2 2 7
+Czynniki pierwsze liczby 30: 2 3 5
+Czynniki pierwsze liczby 1: 1
+Czynniki pierwsze liczby 51: 3 17
+Czynniki pierwsze liczby 42: 2 3 7
+Czynniki pierwsze liczby 76: 2 2 19
+Czynniki pierwsze liczby 51: 3 17
+Czynniki pierwsze liczby 27: 3 3 3 
+Czynniki pierwsze liczby 48: 2 2 2 2 3
+Czynniki pierwsze liczby 64: 2 2 2 2 2 2 
+Czynniki pierwsze liczby 7: 7
+Czynniki pierwsze liczby 37: 37
+Czynniki pierwsze liczby 12: 2 2 3
+Czynniki pierwsze liczby 67: 67
+Czynniki pierwsze liczby 66: 2 3 11
+Czynniki pierwsze liczby 8: 2 2 2 
+Czynniki pierwsze liczby 1: 1
+Czynniki pierwsze liczby 8: 2 2 2 

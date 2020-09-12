@@ -1,0 +1,2 @@
+Największa liczba: 98
+Najmniejsza liczba: 0
