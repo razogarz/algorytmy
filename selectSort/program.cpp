@@ -37,9 +37,23 @@ using namespace std;
 
 
 
+int tab[102];
 
-
-
+void select(int tablica[], int dl){
+    int najmniejsza;
+    for(int i = 0; i < dl; i++){
+        najmniejsza = i;
+        for(int j = i; j < dl; j++){
+           if(tablica[najmniejsza]>tablica[j])
+           {
+               najmniejsza = j;
+           } 
+        }
+        
+        swap(tablica[najmniejsza], tablica[i]); 
+    }
+    return;
+}
 
 int main()
 {
@@ -49,8 +63,14 @@ int main()
     fstream dane, output;
     dane.open("/Users/patrykknapek/Desktop/algorytmy/input.txt", ios::in);
     output.open("output.txt", ios::out);
+    for(int i = 0; i < 100; i++){
+        dane>>tab[i];
+    }
+   select(tab, 100);
+   for(int i = 0; i < 100; i++){
+       output<<tab[i]<<"\n";
+   }
 
-    
 
 
 

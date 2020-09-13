@@ -35,10 +35,15 @@ BIBLIOTEKI
 #define	pob pop_back
 using namespace std;
 
+int tab[11];
 
 
-
-
+int horner(int wspol[], int stopien, int x){
+    if(stopien == 0){
+        return wspol[0];
+    }
+    return x*horner(wspol, stopien-1, x)+wspol[stopien];
+}
 
 
 int main()
@@ -47,10 +52,14 @@ int main()
     cin.tie(0);
 
     fstream dane, output;
-    dane.open("/Users/patrykknapek/Desktop/algorytmy/input.txt", ios::in);
+    dane.open("input.txt", ios::in);
     output.open("output.txt", ios::out);
-
-    
+    int stopien, x;
+    dane>>x>>stopien;
+    for(int i = 0; i < stopien+1; i++){
+        dane>>tab[i];
+    }
+    output<<horner(tab,stopien,x); 
 
 
 
